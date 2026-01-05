@@ -1,2 +1,5 @@
-let number = 12;
-number;
+const studentInfo = {
+    name : "Ali";
+    lastName : "Rezaie";
+    phoneNumber : "0798464332"
+}
