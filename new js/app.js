@@ -3,3 +3,5 @@ let studentInfo = {
     lastName : "Ahmadi" ,
     phoneNumber : "0798464332" 
 }
+
+// Array ....
