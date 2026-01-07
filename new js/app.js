@@ -4,4 +4,7 @@ let studentInfo = {
     phoneNumber : "0798464332" 
 }
 
-// Array ....
+let dinnerFood = {
+    grees : "onion" ,
+    food : "rice" ,
+}
