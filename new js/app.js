@@ -8,5 +8,8 @@ let dinnerFood = {
     grees : "onion" ,
     food : "rice" ,
     frute : "orange" ,
+    with : "bread" ,
+    drinkable : "coffee" ,
     
+
 }
