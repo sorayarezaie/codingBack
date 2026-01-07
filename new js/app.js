@@ -7,4 +7,6 @@ let studentInfo = {
 let dinnerFood = {
     grees : "onion" ,
     food : "rice" ,
+    frute : "orange" ,
+    
 }
