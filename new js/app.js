@@ -11,3 +11,6 @@ let dinnerFood = {
     fruits: ["apple", "mango","peach"]
 
 }
+
+const onion = dinnerFood.grass[0];
+const apple = dinnerFood.fruits[0];
