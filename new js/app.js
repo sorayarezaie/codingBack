@@ -7,11 +7,7 @@ let studentInfo = {
 }
 
 let dinnerFood = {
-    gress : "onion" ,
-    food : "rice" ,
-    frute : "orange" ,
-    drinkable : "tea" ,
-    
+    grass : ["onion", "vegetable","potatoes"],
+    fruits: ["apple", "mango","peach"]
 
 }
-
