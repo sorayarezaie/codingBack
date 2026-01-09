@@ -14,3 +14,5 @@ let dinnerFood = {
 
 const onion = dinnerFood.grass[0];
 const apple = dinnerFood.fruits[0];
+const mango = dinnerFood.fruits[1];
+const peach = dinnerFood.fruits[2];
