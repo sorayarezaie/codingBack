@@ -51,16 +51,22 @@
         //  }
 
 
-        const traficLight = "green";
+        const traficLight = "red";
         switch (traficLight){
             case "yellow" :
                 console.log("go slowly");
                 break;
+
             case "green" :
                 console.log("go");
                 break;
+
+            case "red" :
+                console.log("stop");
+                break;    
+
             default :
-                console.log("stop"); 
+                console.log("unknown signal"); 
                 break;       
 
         }
